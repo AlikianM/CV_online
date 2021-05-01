@@ -1,5 +1,277 @@
-# my.website
 
-my CV online
+<!doctype html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> malikian CV</title>
+  <link href="media/cv-screen.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
+  <link href="media/academicons.min.css" rel="stylesheet">
 
-no progress
+  <!-- imports -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+  <div id="main">
+    <div id="content">
+    <h1 id="graham-d-rose">Mary Alikian</h1>
+<p>I am a passionate and motivated clinical scientist in Genomic Medicine/Clinical Genomics. In addition to my clinical role, I take pride in leadership, education and developing people and systems. I enjoy collaborative working, planning and setting up systematic solutions to complex problems. I find satisfaction in having an impact, influencing and making a difference where I work.</p>
+
+<div id="webaddress">
+<i class="fa fa-envelope"></i> <a href="mailto:mary.alikian@nhs.net">e-mail</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://uk.linkedin.com/in/mary-alikian-52b1347a">LinkedIn</a>
+|
+<i class="fa fa-github"></i> <a href="https://github.com/AlikianM/CV_online.git">malikian.github.io</a>
+</div>
+
+<h2 id="current">Current</h2>
+
+<p>I am currently based within the Cancer Genomics section at the <a href="https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory/">West Midlands Regional Genetics Laboratory </a> which is the lead centre for the Central and Sount Genomic Labortory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels.</p>
+
+<h2 id="employment">Employment</h2>
+
+<p><code class="language-plaintext highlighter-rouge">06.2020-present</code>
+<strong>WLRGL</strong> Principal Clinical Scientist within the Cancer Genomics section.</p>
+
+<p><code class="language-plaintext highlighter-rouge">08.2019-06.2020</code>
+<strong>Institute of Cancer Research (ICR), Royal Marsden NHS Foundation Trust (RMH)</strong> Senior Program manager in Cancer Genetics, and Honorary Clinical Scientist.
+Duties:  Delivery of 4.3million CRUK Catalyst award, Day to day project and team management, communication with collaborators and event organization, KPI monitoring, media and PPI engagement management, newsletter production, software testing and user manual updates, CSG variant interpretations, CanVIG community management and updating variant classifications in CanVarUK and ClinVar. As Clincial Scientist providing consultancy services to various NHS laboratories</p>
+
+<p><code class="language-plaintext highlighter-rouge">06.2017-07.2019</code>
+<strong>Imperial College Healthcare NHS Trust (ICHT), Imperial Colelge London (ICL)</strong> Senior Clinical Scientist and Honorary Research Associate.
+Duties: lead the setting up of the genomics lab within Imperial as part of WLGMC, lead the return of resultx§x§x§s process and the management of the clinical reporting team within WLGMC working on multiple sites (ICHT, RMH, RBH and GOSH). Result interpretation, validation and clinical report provision for the three disciplines (Rare Disease, Cancer and HaemOnc). Managing API access, pulling data and working within the environment. Preparation for and setting up of Genomic MDTs as part of the mainstreaming process. Participation in workshops and best practice guidance documentation. Deputy lead for genomic education and skill development within the department in addition to consulting and planning for various R&D projects. Deputy lead for Quality management in addition to leading the Haematological rare disease service provision. Operational duties such as recruitment, TAT monitoring, appraisals, health roaster management, business case development, managerial meetings, risk assessments, service audits and planning, complaint investigations, etc. In addition, supervision of MSc student projects, lecturing and taking part in various research projects ongoing within the department and internationally.</p>
+
+<p><code class="language-plaintext highlighter-rouge">01.2015-06.2017</code>
+<strong>Imperial Colelge London (ICL), Imperial College Healthcare NHS Trust (ICHT)</strong> Senior Research Associate and Honorary Clinical Scientist. 
+Duties: Actively participate in CML research and data analysis in addition to implementing state of the art Next generation sequencing (NGS) and dPCR technologies for routine genetic testing in Hematological malignancies and solid tumours. Staff and project management, Workflow management, clinical reporting, test validation and technical troubleshooting, participation towards ISO preparation in addition to supervising students and staff training.  Representing the department in international meetings and collaborate with other national and international groups</p>
+
+<p><code class="language-plaintext highlighter-rouge">02.2010-12.2015</code>
+<strong>CImperial Colelge London (ICL), Imperial College Healthcare NHS Trust (ICHT)</strong> Research Assistant and pre-registered clinical scientist.
+Duties: contribute in performing MRD and molecular diagnostic tests and clinical reporting, contribute in the research carried out in the department using a wide range of molecular techniques, supervise students, data analysis and presentation, contribute in seminars and meetings and collaborate with other national and international groups.</p>
+
+<p><code class="language-plaintext highlighter-rouge">06.2020-present</code>
+<strong>Imperial College London (ICL)</strong> Research Assistant. 
+Duties: 1st aid officer, bench work, data analysis and organization, equipment maintenance, animal work, supervise students and collaborate with other groups.</p>
+
+<p><code class="language-plaintext highlighter-rouge">06.2020-present</code>
+<strong>Queen Mary University of London (QMUL)(BARTS)</strong> Research Assistant.
+Duties: bench work, data analysis, presentation and organization, scientific illustration, phlebotomist and tissue banking coordinator..</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2011-2016</code>
+<strong>Imperial College London (ICL)</strong> PhD -  <em>Molecular Pathology and Genomic medicine.</em> available via <a href="http://hdl.handle.net/10044/1/56367"></a>Imperial Spyral Library</p>
+
+<p><code class="language-plaintext highlighter-rouge">2006-2007</code>
+<strong>Queen Mary University of London (QMUL)</strong> MSc Cancer Therapeutics and Molecular Pathology(<em>Merit</em>)</p>
+
+<p><code class="language-plaintext highlighter-rouge">2001-2005</code>
+<strong>Tishreen University, Lattakia, Syria </strong> BSc in Biochemistry(<em>Hons</em>) 1.1</p>
+
+<h2 id="presentations">Profesional Memberships</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2017</code>
+Charter Management Institute (CMI)</p>
+
+<p><code class="language-plaintext highlighter-rouge">2014</code>
+Health Care Profession Council, HCPC (<em>former HPC</em>)(<em>CS19211</em>)</p>
+
+<p><code class="language-plaintext highlighter-rouge">2013</code>
+&#9 British Society of Medical Genetics, BSMG (<em>former BSHG</em>)<br>
+&#9 European Society of Human Genetics, ESHG <br>
+&#9 Cancer genetics Interest Group <br>
+&#9 Society of Genomics Policy and Human Genetics</p>
+
+<p><code class="language-plaintext highlighter-rouge">2012</code>
+Genetics Society</p>
+
+<p><code class="language-plaintext highlighter-rouge">2008</code>
+Professional Association of Diving Instructors (PADI). <br>
+<em>Advanced open water diver, under water photographer and rescue diver</em></p>
+
+<p><code class="language-plaintext highlighter-rouge">2005</code>
+Association for Amateur Astronomy (SAAA)</p>
+
+
+<!-- ### Journals -->
+<h2 id="publications">Publications</h2>
+<h3 id="book-chapter">Book Chapters</h3>
+<p><code class="language-plaintext highlighter-rouge">2019</code>
+<strong>Molecular Diagnostics. Recent Technical advances in Molecular analysis.</strong> N. Presneau and <strong>M. Alikian</strong>. Chapter 2. Oxford University Press. March 2019.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2016</code>
+<strong>The Genetic basis of Haematological cancers. The genetics of Chronic Myeloid Leukemia. </strong> P.C. May, J.S. Khorashad, <strong>M. Alikian</strong>, D. Perrotti and A.G. Reid. Chapter 7. Wiley Online Library. 2016, p312-359.</p>
+
+<h3 id="guideline">Guidelines</h3>
+<p><code class="language-plaintext highlighter-rouge">2020</code>
+<strong>Cancer Variant Interpretation Group UK (CanVIG-UK): An Exemplar National Subspecialty Multidisciplinary Network.</strong>
+Alice Garrett, Alison Callaway, Miranda Durkie et al; 2020. J Med Genet, 2020.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2020</code>
+<strong>Guidance for the Validation and Reporting of Whole Genome Sequencing Results for the 100,000 Genomes Project Cancer Programme.</strong>  Contributors: <strong>M. Alikian</strong>, Sandi Deans, Salvador Diaz-Cano, Helen Dickenson, Angela Hamblin,Shirley Henderson, Sandra Hing, Jane Moorhead,Emily Shaw, Graham Taylor, Clare Turnbull, Andrew Wallace, Nick West and Chris Wragg on behalf of the NHS England Cancer Validation and Reporting Working Group. May 2018</p>
+
+<h3 id="review">Reviews</h3>
+<p><code class="language-plaintext highlighter-rouge">2017</code>
+<strong>Molecular techniques for the personalised management of patients with chronic myeloid leukaemia.</strong> <strong>M. Alikian</strong>, Robert Peter Gale, Jane F Apperley, Letizia Foroni. Biomolecular detection and quantification. 2017. 11, 4-20.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2011</code>
+<strong>'Bcr-Abl1 Kinase Domain Mutations: Methodology and Clinical Evaluation', .</strong> <strong>M. Alikian</strong>, G. Gerrard, P. G. Subramanian, K. Mudge, P. Foskett, J. S. Khorashad, A. C. Lim, D. Marin, D. Milojkovic, A. Reid, K. Rezvani, J. Goldman, J. Apperley, and L. Foroni. Am J Hematol, 2011.</p>
+
+<h3 id="original-research">Original Research</h3>
+<p><code class="language-plaintext highlighter-rouge">2021</code>
+<strong>Identification of Reduced Host Transcriptomic Signatures for Tuberculosis Disease and Digital PCR-Based Validation and Quantification.</strong> H.D. Gliddon, M. Kaforou, <strong>M. Alikian</strong>, D. Habgood-Coote, C. Zhou, T. Oni, S.T. Anderson, A.J. Brent, A.C. Crampin, B. Eley, R. Heyderman, F. Kern, P.R. Langford, T.H.M. Ottenhoff, M.L. Hibberd, N. French, V.J. Wright, H.M. Dockrell, L.J. Coin, R.J. Wilkinson, M. Levin. Front Immunol. 2021; 12: 637164.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2020</code>
+<strong>Low Grade Mosaicism in Hereditary Haemorrhagic Telangiectasia Identified by Bidirectional Whole Genome Sequencing Reads Through the 100,000 Genomes Project Clinical Diagnostic Pipeline.</strong> J. M. Clarke, <strong>M. Alikian</strong>, S. Xiao et al. J Med Genet, 2020.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2019</code>
+<strong>Somatic variants in epigenetic modifiers identify persons with chronic phase chronic myeloid leukaemia less likely to respond to imatinib but not second generation tyrosine kinase-inhibitors.</strong> G. Nteliopoulos , A. Bazeos , S. Claudiani, G. Gerrard, E. Curry, R. Szydlo, <strong>M. Alikian</strong>, Z. Nikolakopoulou, H.E. Foong, S. Loaiza, J.S. Khorashad, D. Milojkovic, R.p. Gale, D. Perrotti, L. Foroni, J.F. Apperley. Haematologica 2019; 104(12): 2400–2409.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2019</code>
+<strong>Impaired cellular and humoral immunity is a feature of Diamind-Blackfan anaemia; experience of 107 unselected cases in the United Kingdom.</strong> D. Iskander, I. Roberts, C. Rees, R. Szyldo, <strong>M. Alikian</strong>, M. Neale, Y., P. Kelleher, A. Karadimitris, J. de la Fuente. BJH 2019, p321-326.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2016</code>
+<strong>RT-qPCR and RT-digital PCR: a comparison of different platforms for the evaluation of residual disease in chronic myeloid leukemia.</strong> <strong>M. Alikian</strong>, A.S. Whale, S. Akiki, K. Piechocki, C. Torrado, T. Myint, S. Cowen, M. Griffiths, A.G. Reid, J.F. Apperley, H. White, J.F. Huggett and L. Foroni. ClinChem 2016. 262824.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2016</code>
+<strong>Cepheid xpert monitor platform for the confirmation of BCR-ABL1 IS conversion factors for the molecular monitoring of chronic myeloid leukaemia. G.</strong> Gerrard, H.E. Foong, K. Mudge, </strong> <strong>M. Alikian</strong>, J.F. Apperley, L. Foroni. Leuk Res. 2016 Oct;49:47-50.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2016</code>
+<strong>Quantitative Analysis of Mutant Subclones in Chronic Myeloid Leukemia: Comparison of Different Methodological Approaches.</strong>S. Preuner, A. Barna, F. Frommlet, S. Czurda, B. Konstantin, <strong>M. Alikian</strong>, M.K. Polakova, T. Sacha, J. Richter, T. Lion, C. Gabriel. Int J Mol Sci. 2016 Apr 29;17(5).</p>
+
+<p><code class="language-plaintext highlighter-rouge">2016</code>
+<strong>NGS-assisted DNA-based digital PCR for a personalised approach to the detection and quantification of residual disease in CML patients.</strong> <strong>M. Alikian</strong>, P. Ellery, M. Forbes, G. Gerrard, D. Kasperaviciute, A. Sosinsky, M. Mueller, A. Whale, D. Milojkovic, J. Apperley, J. Huggett, L. Foroni and A.G. Reid. J Mol Diagn. 2016 Mar;18(2):176-89.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2015</code>
+<strong>PTCH1 Expression at Diagnosis Predicts Imatinib Failure in Chronic Myeloid Leukaemia Patients in Chronic Phase.</strong> JM Alonso-Dominguez, J. Grinfeld, <strong>M. Alikian</strong>, A. Reid, M. Daghistani, C. Hedgley, S. O´Brien, R.E. Clark, J.F. Apperley, L. Foroni, G. Gerrard. Am J Hematol. 2015 Jan:90(1): 20-6.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2013</code>
+<strong>A common novel splice variant of SLC22A1 (OCT1) is associated with impaired responses to imatinib in patients with chronic myeloid leukaemia.</strong> J. Grinfeld, G. Gerrard, <strong>M. Alikian</strong>, JM Alonso-Dominguez , S. Ale, M. Valgañon, G. Nteliopoulos, D. White, D. Marin, C. Hedgley, S. O’Brien, R.E. Clark, J.M. Goldman, D. Milojkovic, J.F. Apperley, L. Foroni. Br J Haematol. 2013 Dec:163(5):631-9.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2013</code>
+<strong>Bcr-Abl1 Compound Mutations in Tyrosine Kinase Inhibitor-Resistant Cml: Frequency and Clonal Relationships.</strong> J. S. Khorashad, T. W. Kelley, P. Szankasi, C. C. Mason, S. Soverini, L. T. Adrian, C. A. Eide, M. S. Zabriskie, T. Lange, J. C. Estrada, A. D. Pomicter, A. M. Eiring, I. L. Kraft, D. J. Anderson, Z. Gu, <strong>M. Alikian</strong>, A. G. Reid, L. Foroni, D. Marin, B. J. Druker, T. O'Hare, and M. W. Deininger. Blood, 121 (2013), 489-98.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2012</code>
+<strong>Fast-Mode Duplex Qpcr for Bcr-Abl1 Molecular Monitoring: Innovation, Automation, and Harmonization.</strong> G. Gerrard, K. Mudge, P. Foskett, D. Stevens, <strong>M. Alikian</strong>, H. E. White, N. C. Cross, J. Apperley, and L. Foroni. Am J Hematol, 87 (2012), 717-20.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2010</code>
+<strong>A Novel Pyrazolo[1,5-a]Pyrimidine Is a Potent Inhibitor of Cyclin-Dependent Protein Kinases 1, 2, and 9, Which Demonstrates Antitumor Effects in Human Tumor Xenografts Following Oral Administration.</strong> D. A. Heathcote, H. Patel, S. H. Kroll, P. Hazel, M. Periyasamy, <strong>M. Alikian</strong>, S. K. Kanneganti, A. S. Jogalekar, B. Scheiper, M. Barbazanges, A. Blum, J. Brackow, A. Siwicka, R. D. Pace, M. J. Fuchter, J. P. Snyder, D. C. Liotta, P. S. Freemont, E. O. Aboagye, R. C. Coombes, A. G. Barrett, and S. Ali. J Med Chem, 53 (2010), 8508-22.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2008</code>
+<strong>WTX is rarely mutated in acute myeloid leukemia.</strong> C.OWEN, P. VIRAPPANE, <strong>M. Alikian</strong>, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D. BONNET, A. BURNETT, K. MILLS, A.T. LISTER, & J. FITZGIBBON. Haematologica, 93 (2008), 947-8.</p>
+
+<h2 id="skills-experties">Skills and Experties</h2>
+<h3 id="technical-skills">Technical Skills</h3>
+<ul>
+  <li>Genotyping (SNP-array, QF-PCR, Fragment-Analysis) </li>
+  <li>Hybridisation (MLPA, array-CGH) </li>
+  <li>Sequencing (Sanger, NGS, RNA-esq, MS-seq, CHIP-seq) </li>
+  <li>Molecular Quantification (qPCR, dPCR)</li>
+  <li>Minimal Residual Disease (MRD)</li>
+  <li>Immunophenotyping (flow-cytometry, FACS)</li>
+  <li>protein (Western Blot, Maldi-TOF, ELISA)</li>
+  <li>Cellular pathology (IHC, TMA, microtomy, FFPE block prep, IP)</li>
+  <li>Tissue Culture (Cell passage, electroporation, SRB Assay, Kinase assay, transfection)</li>
+</ul>
+
+<h3 id="computational-skills">Computational Skills</h3>
+<ul>
+  <li>Shell scripting - bash</li>
+  <li>Python - pandas, beautifulsoup, APIs</li>
+  <li>Full Stack development - Django, Docker, MySQL</li>
+  <li>Front-end development - HTML, CSS, JavaScript</li>
+  <li>R - bb2 plot</li>
+  <li>Git, GitHub</li>
+  <li>HPC environment</li>
+  <li>M. office packages</li>
+  <li>GraphPad PRISM</li>
+</ul>
+
+<h3 id="graphics-skills">Graphical Skills</h3>
+<ul>
+  <li>Adobe (Photoshop, Illustrator, InDesign)</li>
+  <li>Corel Draw</li>
+  <li>FLASH Animation</li>
+</ul>
+
+<h3 id="management-expertise">Management & Leadership Expertise</h3>
+<ul>
+  <li>R&D development</li>
+  <li>service delivery management</li>
+  <li>Quality management</li>
+  <li>Monitoring KPIs</li>
+  <li>Costing and business cases preparation</li>
+  <li>Workforce skill development</li>
+  <li>Project management</li>
+  <li>Risk managmeent</li>
+  <li>Cost-benefit analysis</li>
+  <li>Budgeting and invoicing</li>
+  <li>Balance sheets interpretation</li>
+  <li>change management</li>
+  <li>Social enterprise management</li>
+  <li>stakeholder management</li>
+  <li>auditing </li>
+  <li>Recruitment and Selection</li>
+  <li>workload management</li>
+  <li>Staff management, development and appraisals</li>
+  <li>strategic plannning</li>
+  <li>Mentoring and Coaching</li>
+  <li>Team development</li>
+</ul>
+
+<h3 id="areas-of-expertise">Areas of Expertise</h3>
+<ul>
+  <li>Genomic Medicine/Precision Medicine</li>
+  <li>Clinical Genomics</li>
+  <li>Molecular Pathology</li>
+  <li>Cancer Genomics</li>
+  <li>ISO 15189:2012 Med-Lab</li>
+  <li>UKAS accreditation prep</li>
+  <li>Bioinformatics</li>
+  <li>Molecular Methodologies</li>
+  <li>Molecular Diagnostics</li>
+  <li>Genomic Testing</li>
+  <li>Pharmacogenomics (PGx)</li>
+</ul>
+
+<h3 id="lecturing-experience">Lecturing Experience</h3>
+<p>Advances in Molecular Technologies - Haematology BSc course.<br>
+Molecular Methodologies - MSc Genomic Medicine (CPD).<br> 
+dPCR – EMBL 3 day course.<br>
+<em>Exam paper marking for various BSc and MSc modules.</em></p>
+
+<h3 id="student-supervison">Student Supervision</h3>
+<p>Supervised a range of students to complete their projects for various courses including MSc Human Molecular genetics, MSc Molecular medicine, MSc Genomic Medicine, MRes in cancer biology, Erasmus program, BSc Biomedical Sciences, Trainee MDs and clinical scientists, etc</p>
+
+<h3 id="public-engagement">Public Engagement</h3>
+<p>STEM (Science, Technology, Engineering and Mathematics) Ambassador 
+Research dissemination and public education thought commercial videos and webinars prepared in conjugation with industry or charity bodies. 
+Science day participation to promote the profession of healthcare science.</p>
+
+
+<h2 id="links">Links</h2>
+
+<!-- fa are fontawesome, ai are academicons -->
+<ul>
+  <li><i class="fa fa-envelope"></i> <a href="mailto:mary.alikian@nhs.net">malikian</a><br /></li>
+  <li><i class="fa fa-github"></i> <a href="https://github.com/AlikianM">github</a><br /></li>
+  <li><i class="fa fa-linkedin"></i> <a href="https://uk.linkedin.com/in/mary-alikian-52b1347a">LinkedIn</a></li>
+  <li><i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=N8TJ0kQAAAAJ&hl=en">Google scholar</a></li>
+  <li><i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4298-6926">ORCID</a></li>
+  <li><i class="ai ai-imperial"></i> <a href="https://www.imperial.ac.uk/people/m.alikian">Imperial-home</a></li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: May 2021 -->
+
+    </div>
+  </div>
+
+  <div class="footer"></div>
+
+</body>
+</html>
